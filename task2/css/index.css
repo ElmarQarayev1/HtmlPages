@@ -1,0 +1,60 @@
+body{
+    top: 0px;
+    margin: 0px 0px 0px 0px;
+     
+}
+#div1{
+    width:1310px;
+    height: 210px;
+    background-color: rgb(4, 124, 108);
+}
+#div2{
+    width:1310px;
+    height: 290px;
+   background-color: azure;
+}
+#div1 #html1{
+    margin-top: 0px;
+    text-align: center;
+    color: white;
+    padding-top: 90px;
+    padding-right: 50px;
+}
+#div2 #html2{
+    text-align: center;
+    padding-top: 90px;
+    padding-left: 330px;
+    padding-right: 400px;    
+
+}
+#div2 #p1{
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 350px;
+}
+.flexable{
+    color: white;
+    width:1310px;
+    height: 243px;
+    background-color: rgb(4, 74, 50);
+   display: flex;
+   justify-content: center;  
+ }
+ .flexable #divv1{
+        margin-right: 100px;
+       width: 200px;
+       height: 200px;
+ }
+ .flexable #divv2{
+    width: 200px;
+       height: 200px;
+       padding-right: 100px;
+ }
+ .flexable #divv3{
+    width: 200px;
+       height: 200px;
+ }
+ .flexable h1{
+    padding-left: 20px;
+    padding-right: 10px;
+ }

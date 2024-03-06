@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+#id1 input{
+    width: 90px;
+}
+#submit{
+    margin-top: 30px;
+    text-align: center;
+}
+#sub{
+    border: 4px;
+    width: 140px;
+    height: 30px;
+    background-color: blue;
+}
+#radio1{
+    margin-right: 50px;
+}
+   input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+    .e {     
+      -moz-appearance: textfield;
+    }
